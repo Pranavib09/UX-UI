@@ -1,2 +1,2 @@
 # UX-UI
-UX/UI codesoft
+UX/UI email
